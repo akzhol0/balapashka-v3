@@ -1,0 +1,5 @@
+[
+    {"id":1,"name":"ПИЖАМА","value":"3500","price":"3.500KZT","priceBottom":" 4.200KZT","stock":"● В НАЛИЧИЙ","img":"../assets/images/pijama/pijama1.jpeg","size":"Размеры: 74 см (6-9 мес), 80 см (9-12 мес), 86 см (12-18 мес), 92 см (18-24 мес)"},
+    {"id":2,"name":"ПИЖАМА","value":"3500","price":"3.500KZT","priceBottom":" 4.200KZT","stock":"● В НАЛИЧИЙ","img":"../assets/images/pijama/pijama2.jpeg","size":"Размеры:68 см (3-6 мес), 74 см (6-9 мес), 80 см (9-12 мес), 86 см (12-18 мес)"},
+    {"id":3,"name":"ПИЖАМА","value":"3500","price":"3.500KZT","priceBottom":" 4.200KZT","stock":"● В НАЛИЧИЙ","img":"../assets/images/pijama/pijama3.jpeg","size":"Размеры: 68 см (3-6 мес), 74 см (6-9 мес), 80 см (9-12 мес), 86 см (12-18 мес)"}
+]

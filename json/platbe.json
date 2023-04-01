@@ -1,0 +1,6 @@
+[
+    {"id":1,"name":"ПЛАТЬЕ","value":"4500","price":"4.500KZT","priceBottom":" 4.900KZT","stock":"● В НАЛИЧИЙ","img":"../assets/images/platbe/plat1.jpeg","size":"Размеры: 74см(6-9.мес),80см(9-12.мес)"},
+    {"id":2,"name":"ПЛАТЬЕ","value":"4000","price":"4.000KZT","priceBottom":" 4.600KZT","stock":"● В НАЛИЧИЙ","img":"../assets/images/platbe/plat2.jpeg","size":"Размеры:74 см (6-9 мес), 80 см (9-12 мес), 86 см (12-18 мес), 92 см (18-24 мес)"},
+    {"id":3,"name":"ПЛАТЬЕ","value":"4500","price":"4.500KZT","priceBottom":" 4.900KZT","stock":"● В НАЛИЧИЙ","img":"../assets/images/platbe/plat3.jpeg","size":"Размеры: 74см(6-9.мес),80см(9-12.мес)"},
+    {"id":4,"name":"ПЛАТЬЕ","value":"4000","price":"4.000KZT","priceBottom":" 4.600KZT","stock":"● В НАЛИЧИЙ","img":"../assets/images/platbe/plat4.jpeg","size":"Размеры:68 см (6-9 мес), 74 см (9-12 мес),  80 см (12-18 мес), 86 см (18-24 мес)"}
+]    

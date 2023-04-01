@@ -1,0 +1,18 @@
+[
+    {"id":1,"name":"СПОРТИВНЫЙ КОМБИНЕЗОН","value":"4000","price":"4.000KZT","priceBottom":" 4.900KZT","stock":"● В НАЛИЧИЙ","img":"../assets/images/komb/kombik1.jpeg","size":"Размеры: Размеры:62 см (3 мес), 68 см (6 мес), 74 см (9 мес), 80 см (12 мес)"},
+    {"id":2,"name":"СПОРТИВНЫЙ КОМБИНЕЗОН","value":"4000","price":"4.000KZT","priceBottom":" 4.900KZT","stock":"● В НАЛИЧИЙ","img":"../assets/images/komb/kombik2.jpeg","size":"Размеры:62 см (3 мес), 68 см (6 мес), 74 см (9 мес),"},
+    {"id":3,"name":"КОМБИНЕЗОН","value":"3900","price":"3.900KZT","priceBottom":" 4.200KZT","stock":"● В НАЛИЧИЙ","img":"../assets/images/komb/kombik3.jpeg","size":"Размеры: 74 см (6-9 мес), 80 см (9-12 мес)"},
+    {"id":4,"name":"ФЛИСОВЫЙ КОМБИНЕЗОН","value":"3500","price":"3.500KZT","priceBottom":" 3.900KZT","stock":"● В НАЛИЧИЙ","img":"../assets/images/komb/kombik4.jpeg","size":"Размеры: 62 см (0-3 мес), 68 см (3-6 мес), 74 см (6-9 мес)"},
+    {"id":5,"name":"КОМБИНЕЗОН","value":"3800","price":"3.800KZT","priceBottom":" 4.500KZT","stock":"● В НАЛИЧИЙ","img":"../assets/images/komb/kombik5.jpeg","size":"Размеры:68 см (3-6 мес), 74 см (6-9 мес), 80 см (9-12 мес)"},
+    {"id":6,"name":"КОМБИНЕЗОН","value":"5000","price":"5.000KZT","priceBottom":" 5.600KZT","stock":"● В НАЛИЧИЙ","img":"../assets/images/komb/kombik6.jpeg","size":"Размеры: 62 см (0-3 см), 68 см (3-6 мес), 74 см (6-9 мес), 80 см (9-12 мес)"},
+    {"id":7,"name":"ФЛИСОВЫЙ КОМБИНЕЗОН","value":"3500","price":"3.500KZT","priceBottom":" 3.900KZT","stock":"● В НАЛИЧИЙ","img":"../assets/images/komb/kombik7.jpeg","size":"Размеры: 62 см (0-3 мес), 68 см (3-6 мес), 74 см (6-9 мес)"},
+    {"id":8,"name":"КОМБИНЕЗОН","value":"3800","price":"3.800KZT","priceBottom":" 4.500KZT","stock":"● В НАЛИЧИЙ","img":"../assets/images/komb/kombik8.jpeg","size":"Размеры: 68 см (3-6 мес), 74 см (6-9 мес), 80 см (9-12 мес)"},
+    {"id":9,"name":"КОМБИНЕЗОН","value":"3800","price":"3.800KZT","priceBottom":" 4.200KZT","stock":"● В НАЛИЧИЙ","img":"../assets/images/komb/kombik9.jpeg","size":"Размеры: 62 см (0-3 мес), 68 см (3-6 мес), 80 см (12 мес)"},
+    {"id":10,"name":"КОМБИНЕЗОН","value":"7000","price":"7.000KZT","priceBottom":" 7.600KZT","stock":"● В НАЛИЧИЙ","img":"../assets/images/komb/kombik10.jpeg","size":"Размеры: 68 см (3-6 мес), 74 см (6-9 мес),80 см (9-12 мес))"},
+    {"id":11,"name":"КОМБИНЕЗОН","value":"4000","price":"4.000KZT","priceBottom":" 4.600KZT","stock":"● В НАЛИЧИЙ","img":"../assets/images/komb/kombik11.jpeg","size":"Размеры: 56 см (0-2 мес), 62 см (0-3 мес), 68 см (3-6 мес), 74 см (6-9 мес)"},
+    {"id":12,"name":"КОМБИНЕЗОН","value":"3000","price":"3.000KZT","priceBottom":" 3.600KZT","stock":"● В НАЛИЧИЙ","img":"../assets/images/komb/kombik12.jpeg","size":"Размеры: 62 см (0-3 мес), 68 см (3-6 мес), 74 см (6-9 мес)"},
+    {"id":13,"name":"КОМБИНЕЗОН","value":"3300","price":"3.300KZT","priceBottom":" 3.900KZT","stock":"● В НАЛИЧИЙ","img":"../assets/images/komb/kombik13.jpeg","size":"Размеры: 62 см (0-3 мес), 68 см (3-6 мес)"},
+    {"id":14,"name":"КОМБИНЕЗОН","value":"3300","price":"3.300KZT","priceBottom":" 3.800KZT","stock":"● В НАЛИЧИЙ","img":"../assets/images/komb/kombik14.jpeg","size":"Размеры: 68 см (3-6 мес), 80 см (12 мес)"},
+    {"id":15,"name":"КОМБИНЕЗОН","value":"3300","price":"3.300KZT","priceBottom":" 3.800KZT","stock":"● В НАЛИЧИЙ","img":"../assets/images/komb/kombik15.jpeg","size":"Размеры: 68 см (3-6 мес), 80 см (12 мес)"},
+    {"id":16,"name":"КОМБИНЕЗОН","value":"3500","price":"3.500KZT","priceBottom":" 3.990KZT","stock":"● В НАЛИЧИЙ","img":"../assets/images/komb/kombik16.jpeg","size":"Размеры: 62 см (0-3 мес), 68 см (3-6 мес), 74 см (6-9 мес)"}
+]

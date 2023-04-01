@@ -1,0 +1,10 @@
+[
+    {"id":1,"name":"МУСЛИНОВЫЕ ПЛЕНКИ","value":"1500","price":"1.500KZT","priceBottom":" 2.000KZT","stock":"● В НАЛИЧИЙ","img":"../assets/images/wapki/wap1.jpg","size":"В Наличий: 7 штук, в разных расцветках"},
+    {"id":2,"name":"НОСКИ","value":"600","price":"600KZT","priceBottom":" 900KZT","stock":"● В НАЛИЧИЙ","img":"../assets/images/wapki/wap2.jpeg","size":"Размеры: 0-6 мес"},
+    {"id":3,"name":"УТЕПЛЁННЫЕ ШАПКИ","value":"1500","price":"1.500KZT","priceBottom":" 2.000KZT","stock":"● В НАЛИЧИЙ","img":"../assets/images/wapki/wap3.jpg","size":""},
+    {"id":4,"name":"ВЯЗАННЫЙ ПЛЕД","value":"5000","price":"5.000KZT","priceBottom":" 5.700KZT","stock":"● В НАЛИЧИЙ","img":"../assets/images/wapki/wap4.jpeg","size":"Есть в 3х расцветках"},
+    {"id":5,"name":"ШАПКИ","value":"400","price":"400KZT","priceBottom":" 700KZT","stock":"● В НАЛИЧИЙ","img":"../assets/images/wapki/wap5.jpeg","size":"В наличий в разных расцетках"},
+    {"id":6,"name":"ШАПКИ","value":"400","price":"400KZT","priceBottom":" 700KZT","stock":"● В НАЛИЧИЙ","img":"../assets/images/wapki/wap6.jpeg","size":"В наличий в разных расцетках"},
+    {"id":7,"name":"МАХРОВЫЕ ПОЛОТЕНЦА","value":"4000","price":"4.000KZT","priceBottom":" 5.000KZT","stock":"● В НАЛИЧИЙ","img":"../assets/images/wapki/wap7.jpeg","size":""},
+    {"id":8,"name":"МАХРОВЫЕ ПОЛОТЕНЦА","value":"4000","price":"4.000KZT","priceBottom":" 5.000KZT","stock":"● В НАЛИЧИЙ","img":"../assets/images/wapki/wap8.jpeg","size":""}
+]

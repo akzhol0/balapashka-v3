@@ -1,0 +1,509 @@
+@import url(https://fonts.googleapis.com/css?family=Alumni+Sans:100,200,300,regular,500,600,700,800,900);
+@import url(https://fonts.googleapis.com/css?family=Teko:300,regular,500,600,700);
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
+@import url("reset.css");
+
+html, body {
+    background-color: #18191A;
+    height: 100%;
+    position: relative;
+    font-family: 'Alumni Sans', sans-serif;
+}
+
+.wrapper {
+    display: flex;
+    flex-direction: column;
+    min-height: 100%;
+}
+
+main {
+    margin: 120px 0 0 0;
+    flex: 1 1 auto;
+}
+
+::-webkit-scrollbar {
+    width: 10px;
+}
+
+::-webkit-scrollbar-track {
+    background: #232323;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #ED820E;
+}
+
+/* -------------------- RESET -------------------------- */
+
+.header {
+    width: 100%;
+    height: 120px;
+    background: #18191A;
+    position: fixed;
+    z-index: 5;
+}
+
+.header-upper {
+    height: 80px;
+    padding: 0 150px;
+    font-family: 'Teko', sans-serif;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.burger-menu {
+    position: absolute;
+    right: -500px;
+    top: 0;
+    width: 350px;
+    height: 100vh;
+    background-color: #0482ff;
+    transition: ease-in-out all 0.4s;
+}
+
+ul {
+    color: #ED820E;
+}
+
+.btn-close-wrapper {
+    height: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.btn-close {
+    width: 50px;
+    height: 50px;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 5px;
+}
+
+.btn-close .line {
+    margin: -10px 0 0 0;
+    width: 100%;
+    height: 5px;
+    background: #000;
+}
+
+.btn-close .line1 {
+    transform: rotate(45deg);
+    margin: 10px 0 0 0;
+}
+
+.btn-close .line2 {
+    transform: rotate(-45deg);
+    margin: -10px 0 0 0;
+}
+
+.logo {
+    color: #ED820E;
+    margin: 8px 0 0 0;
+    cursor: pointer;
+    font-size: 60px;
+    font-weight: 600;
+}
+
+.logo sup {
+    font-size: 25px;
+}
+
+.acc {
+    position: absolute;
+    cursor: pointer;
+    width: 50px;
+    height: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    right: 20px;
+}
+
+.acc .line {
+    width: 100%;
+    height: 5px;
+    background: #ED820E;
+}
+
+.insta-ph {
+    width: 51px;
+    height: 51px;
+}
+
+.whats-ph {
+    width: 60px;
+    height: 60px;
+}
+
+.kat-btn-wrapper {
+    height: 40px;
+    background: #ED820E;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+}
+
+.kat-btn {
+    color: #000;
+    font-size: 35px;
+    font-weight: 300;
+    padding: 0 200px;
+    transition: background-color 0.2s;
+}
+
+.kat-btn:hover {
+    background: #ff9627;
+    cursor: pointer;
+}
+
+ul {
+    cursor: default;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+ul:nth-child(1) {
+    font-size: 30px;
+    font-weight: 600;
+}
+
+.phj2 {
+    display: flex;
+    align-items: center;
+}
+
+.parallax {
+    width: 100%;
+    height: 700px;
+    background-image: url(../images/bg1.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    display: grid;
+    place-items: center;
+}
+
+.p2 {
+    height: 900px;
+    background-image: url(../images/bg2.jpeg);
+    background-position: top;
+}
+
+.text-wrapper {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    text-align: center;
+}
+
+.text-wrapper p {
+    padding: 5px 40px;
+    background: #ED820E;
+    font-size: 40px;
+    border-radius: 30px;
+}
+
+.text-header {
+    width: 100%;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.text-header p {
+    cursor: default;
+    width: 100%;
+    font-size: 60px;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    flex-wrap: nowrap;
+}
+
+.text-header p::before, .text-header p::after {
+    content: '';
+    width: 100%;
+    height: 1px;
+    background: #ED820E;
+}
+
+.block-imgs {
+    width: 100%;
+    height: 600px;
+}
+
+.blocks-wrapper {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    place-items: center;
+    padding: 0 100px;
+}
+
+.block-img {
+    width: 400px;
+    height: 600px;
+    background: #fff;
+    background-position: center;
+    background-size: cover;
+    border-radius: 30px;
+    transition: transform .3s;
+}
+
+.block-img:hover {
+    transform: scale(1.05);
+}
+
+.blocks-wrapper .block1 {
+    background-image: url(../images/img1.jpeg);
+}
+
+.blocks-wrapper .block2 {
+    background-image: url(../images/img2.jpeg);
+}
+
+.blocks-wrapper .block3 {
+    background-image: url(../images/img3.jpeg);
+}
+
+.sales-wrapper {
+    width: 100%;
+    height: 700px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.sales-wrapper .block {
+    width: 33.33%;
+    height: 700px;
+}
+
+.photo {
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.ph1 {
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    background-image: url(../images/ph1.jpeg);
+}
+
+.ph2 {
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+    background-image: url(../images/ph2.jpeg);
+}
+
+.ph3 {
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    background-image: url(../images/kombik10.jpeg);
+}
+
+.ph4 {
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+    background-image: url(../images/kombik9.jpeg);
+}
+
+.ph5 {
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    background-image: url(../images/kofta2.jpeg);
+}
+
+.ph6 {
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+    background-image: url(../images/kofta4.jpeg);
+}
+
+.text-wrapper p {
+    cursor: default;
+}
+
+.sizes {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+    text-align: center;
+    font-size: 50px;
+}
+
+.sizes p {
+    cursor: default;
+}
+
+.green {
+    color: limegreen;
+}
+
+.buy-btn {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 200px 0 0 0;
+    cursor: default;
+}
+
+.buy-btn a {
+    display: grid;
+    place-items: center;
+    color: #fff;
+    width: 100%;
+    height: 80px;
+    font-size: 50px;
+    transition: background-color .3s;
+}
+
+.buy-btn a:hover {
+    background: #292929;
+}
+
+.buy-btn .price {
+    display: grid;
+    place-items: center;
+    width: 100%;
+    height: 100px;
+    background: #e32222;
+    font-size: 80px;
+    color: #fff;
+}
+
+.line-footer {
+    width: 100%;
+    height: 1px;background: #ED820E;
+}
+
+.footer {
+    width: 100%;
+    height: 400px;
+    background: #222222;
+}
+
+.text-footer {
+    height: 100%;
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    flex-direction: column;
+    color: #fff;
+    font-size: 15px;
+    font-family: 'Playfair Display', serif;
+}
+
+.sign-up {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+.sign-up h1 {
+    display: flex;
+    justify-content: center;
+    font-size: 50px;
+    font-weight: 400;
+    font-family: 'Alumni Sans', sans-serif;
+    cursor: default;
+    margin: 0 0 20px 0;
+}
+
+.inp-wrapper {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+::-webkit-input-placeholder { 
+    color: #000;
+ }
+
+.sign-up input {
+    width: 250px;
+    height: 35px;
+    background: #fff;
+    color: #000;
+    border-radius: 5px;
+    padding: 0 15px;
+}
+
+.else {
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #000;
+}
+
+.else a {
+    color: #000;
+}
+
+.btn-login {
+    width: 100%;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.btn-login button {
+    width: 120px;
+    height: 40px;
+    border: 1px solid #000;
+    background: #fff;
+    border-radius: 15px;
+    font-size: 20px;
+}
+
+.user {
+    cursor: default;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    font-size: 30px;
+    color: #fff;
+    gap: 20px;
+}
+
+.user img {
+    width: 60px;
+    height: 60px;
+}
+
+#check {
+    display: flex;
+    justify-content: center;
+    color: red;
+    align-items: center;
+    height: 50px;
+    font-size: 25px;
+}
+
+.inp-pass {
+    height: 35px;
+    display: flex;
+    align-items: center;
+    position: relative;
+}
+
+.inp-pass img {
+    position: absolute;
+    right: 10px;
+    cursor: pointer;
+}

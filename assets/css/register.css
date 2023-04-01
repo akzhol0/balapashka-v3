@@ -1,0 +1,115 @@
+@import "reset.css";
+@import "style.css";
+
+.header {
+    position: static;
+}
+
+.header-upper {
+    border-bottom: 1px solid #c9c9c9;
+}
+
+main {
+    margin: 0;
+    width: 100%;
+    display: grid;
+    place-items: center;
+}
+
+.inp {
+    display: flex;
+    align-items: center;
+    position: relative;
+}
+
+.inp text {
+    position: absolute;
+    right: 16px;
+    font-size: 20px;
+    cursor: default;
+}
+
+.inp img {
+    position: absolute;
+    right: 40px;
+    margin: 2px 0 0 0;
+    cursor: pointer;
+}
+
+.err {
+    color: red;
+    display: flex;
+    justify-content: center;
+    font-size: 30px;
+}
+
+.successully {
+    color: lime;
+}
+
+section {
+    width: 700px;
+    height: 700px;
+    background: #fff;
+    border-radius: 30px;
+}
+
+text {
+    padding: 2px;
+    background: #e2e2e2;
+}
+
+.inp-wrap {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+}
+
+.inp-wrap input {
+    width: 560px;
+    height: 60px;
+    background: #e2e2e2;
+    border-radius: 10px;
+    padding: 0 20px;
+    font-size: 20px;
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+    font-size: 60px;
+    margin: 50px 0;
+    cursor: default;
+}
+
+.btn-wrap {
+    width: 100%;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.btn-wrap button {
+    width: 150px;
+    height: 50px;
+    border: 1px solid #000;
+    transition: all .2s;
+    border-radius: 5px;
+}
+
+.btn-wrap button:hover {
+    background-color: #000;
+    color: #fff;
+}
+
+.btn-wrap button:active {
+    transform: scale(0.96);
+}
+
+[data-eyes] {
+    position: absolute;
+    right: 40px;
+}

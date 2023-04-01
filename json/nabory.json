@@ -1,0 +1,13 @@
+[
+    {"id":1,"value": 4200,"name":"ДЛЯ НОВОРОЖДЕННЫХ","stock":"● В НАЛИЧИЙ","price":"4.200KZT ","img":"../assets/images/nabor/nabor1.jpeg","priceBottom":" 4.800KZT","size":"Размеры: 56 см (0-3 мес)"},
+    {"id":2,"value": 3700,"name":"КОМПЛЕКТ 3в1","stock":"● В НАЛИЧИЙ","price":"3.700KZT","img":"../assets/images/nabor/nabor2.jpeg","priceBottom":" 4.200KZT","size":"Размеры:68 см (3-6 мес), 74 см (6-9 мес), 86 см (12-18 мес)"},
+    {"id":3,"value": 3000,"name":"ДЛЯ НОВОРОЖДЕННЫХ","stock":"● В НАЛИЧИЙ","price":"3.000KZT","img":"../assets/images/nabor/nabor3.jpeg","priceBottom":" 3.700KZT","size":"Размеры: 62 см (0-3 мес)"},
+    {"id":4,"value": 3000,"name":"ДЛЯ НОВОРОЖДЕННЫХ","stock":"● В НАЛИЧИЙ","price":"3.000KZT","img":"../assets/images/nabor/nabor4.jpeg","priceBottom":" 3.700KZT","size":"Размеры: 62 см (0-3 мес)"},
+    {"id":5,"value": 3000,"name":"ДЛЯ НОВОРОЖДЕННЫХ","stock":"● В НАЛИЧИЙ","price":"3.000KZT","img":"../assets/images/nabor/nabor5.jpeg","priceBottom":" 3.700KZT","size":"Размеры: 62 см (0-3 мес)"},
+    {"id":6,"value": 3000,"name":"ДЛЯ НОВОРОЖДЕННЫХ","stock":"● В НАЛИЧИЙ","price":"3.000KZT","img":"../assets/images/nabor/nabor6.jpeg","priceBottom":" 3.700KZT","size":"Размеры: 62 см (0-3 мес)"},
+    {"id":7,"value": 5000,"name":"ДЛЯ НОВОРОЖДЕННЫХ","stock":"● В НАЛИЧИЙ","price":"5.000KZT","img":"../assets/images/nabor/nabor7.jpeg","priceBottom":" 6.000KZT","size":"Размеры: 50-56 см (0-3 мес)"},
+    {"id":8,"value": 4000,"name":"ТРОЙКА ДЛЯ МАЛЬЧИКОВ","stock":"● В НАЛИЧИЙ","price":"4.000KZT","img":"../assets/images/nabor/nabor8.jpeg","priceBottom":" 4.800KZT","size":"Размеры: 62 см (0-3 мес)"},
+    {"id":9,"value": 4000,"name":"НАБОР 3в1","stock":"● В НАЛИЧИЙ","price":"4.000KZT","img":"../assets/images/nabor/nabor9.jpeg","priceBottom":" 4.600KZT","size":"Размеры: 62 см (0-3 мес), 68 см (3-6 мес)"},
+    {"id":10,"value": 3800,"name":"ЯРКИЙ НАБОР","stock":"● В НАЛИЧИЙ","price":"3.800KZT","img":"../assets/images/nabor/nabor10.jpeg","priceBottom":" 4.200KZT","size":"Размеры: 68см(3-6.мес), 74см(6-9.мес), 80см(12.мес), 86см(18.мес)"},
+    {"id":11,"value": 4000,"name":"ЯРКИЙ НАБОР","stock":"● В НАЛИЧИЙ","price":"4.000KZT","img":"../assets/images/nabor/nabor11.jpeg","priceBottom":" 4.600KZT","size":"Размеры: 62 см (0-3 мес), 68 см (3-6 мес)"}
+]
